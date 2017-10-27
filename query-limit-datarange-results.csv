@@ -1,0 +1,20 @@
+,"EFUoWDatabase","EFPreInstanceDatabase","PetaPocoDatabase","DapperDatabase","DapperSPDatabase","TSqlDatabase","TSqlSPDatabase"
+"Load Group By Id",42,3,3.33,8,15,1.67,1.33
+"Get Filtered By Daterange with Limit Desc (top 25 - 1 week)",188.33,3.33,4.67,2.67,1,1.33,1.67
+"Get Filtered By Daterange with Limit Asc (top 25 - 1 week)",14.33,3.33,2.33,3.33,1.33,0.67,2.33
+"Get Filtered By Daterange with Limit Desc (top 25 - 1 month)",151,4.33,1,0.67,0.33,1.33,1.33
+"Get Filtered By Daterange with Limit Asc (top 25 - 1 month)",2.67,3,1,2,0.67,1.33,1
+"Get Filtered By Daterange with Limit Desc (top 25 - 1 year)",6.33,6,1.67,1.33,1,1.33,1.33
+"Get Filtered By Daterange with Limit Asc (top 25 - 1 year)",3.33,5.67,2,1,2.33,1,1.67
+"Get Filtered By Daterange with Limit Desc (top 100 - 1 week)",22.67,40,3.67,2.67,2.33,1.67,2
+"Get Filtered By Daterange with Limit Asc (top 100 - 1 week)",27.67,39,3,4,3.33,2.67,1
+"Get Filtered By Daterange with Limit Desc (top 100 - 1 month)",23.33,14,2,3,1.67,2,1.67
+"Get Filtered By Daterange with Limit Asc (top 100 - 1 month)",7.33,17.67,2.33,2,2.33,1.67,1.67
+"Get Filtered By Daterange with Limit Desc (top 100 - 1 year)",17.33,9.33,3,2,2,2.33,2.33
+"Get Filtered By Daterange with Limit Asc (top 100 - 1 year)",4,7.67,2,2.67,2.33,3,2
+"Get Filtered By Daterange with Limit Desc (top 1000 - 1 week)",54.33,43.33,10.67,13,7.67,7,9.67
+"Get Filtered By Daterange with Limit Asc (top 1000 - 1 week)",26.33,44.67,10.33,11,10.33,15,8.33
+"Get Filtered By Daterange with Limit Desc (top 1000 - 1 month)",71,58,15,24.33,14.33,13.33,11.33
+"Get Filtered By Daterange with Limit Asc (top 1000 - 1 month)",54,57.33,11.33,13,9.33,11.67,11
+"Get Filtered By Daterange with Limit Desc (top 1000 - 1 year)",87.67,58.67,11,12.67,11.33,10,10.33
+"Get Filtered By Daterange with Limit Asc (top 1000 - 1 year)",1059.33,59.67,11,17,12.33,10.33,8.67

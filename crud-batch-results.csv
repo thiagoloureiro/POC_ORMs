@@ -1,0 +1,8 @@
+,"EFUoWDatabase","EFPreInstanceDatabase","PetaPocoDatabase","DapperDatabase","DapperSPDatabase","TSqlDatabase","TSqlSPDatabase"
+"Create a new group",95.67,6,6.33,11,1.33,0.67,0.67
+"Insert 200 messages",465.67,725.33,549.67,124.67,123.67,73.67,110
+"Get Group Messages (After insert)",92.33,15.33,6.33,3,2.67,1.67,2.67
+"Update 100 Messages",50.33,95,105.67,21.33,24,15,26.33
+"Delete 50 Messages",75.67,15,10,5.33,4.67,5.33,6.33
+"Group total messages Dictionary",77.67,48.67,36.33,21.33,23,35.33,24.67
+"Eager Load Group with Messages",283.67,279,49,28,24,97.67,79.67
