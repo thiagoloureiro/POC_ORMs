@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceTest", "PerformanceTest.csproj", "{F2632A38-2572-4978-9823-82539BCA7268}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DBProject", "..\DBProject\DBProject.sqlproj", "{F4844E38-A4BB-40BF-8FD8-D73744DA2E2A}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DBProject", "DBProject\DBProject.sqlproj", "{F4844E38-A4BB-40BF-8FD8-D73744DA2E2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
